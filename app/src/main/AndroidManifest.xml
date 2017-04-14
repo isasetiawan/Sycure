@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dwi.mm.sycure">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Login"
+            android:theme="@style/Theme.AppTheme.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainMenuActivity"
+            android:theme="@style/AppTheme.MainMenu" />
+        <activity
+            android:name=".QuizActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".ScoreQuizActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".TreatmentActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".AboutActivity"
+            android:theme="@style/AppTheme.About" />
+        <activity
+            android:name=".MessageActivity"
+            android:theme="@style/AppTheme.About" />
+        <activity
+            android:name=".AddMessageActivity"
+            android:theme="@style/AppTheme.About" />
+        <activity
+            android:name=".TherapyActivity"
+            android:theme="@style/AppTheme.About" />
+        <activity
+            android:name=".ListVideoActivity"
+            android:theme="@style/AppTheme.Video" />
+        <activity
+            android:name=".WatchVideoActivity"
+            android:theme="@style/AppTheme.Video" />
+    </application>
+
+</manifest>

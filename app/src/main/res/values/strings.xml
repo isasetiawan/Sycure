@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="app_name">Sycure</string>
+
+    <array name="gender">
+        <item>"Male"</item>
+        <item>"Female"</item>
+    </array>
+
+    <string name="dob">Date of Birth</string>
+
+    <string-array name="questions">
+        <item>Apakah anda melihat gambar ini berputar?</item>
+        <item>Jika anda melihat gambar tersebut seakan berputar, maka menunjukan bahwa anda sedang stress, semakin cepat putaran yang dihasilkan gambar, menandakan tingkat stress anda</item>
+        <item>Jika anda melihat gambar tersebut bergerak, itu menunjukkan bahwa anda sedang stress, semakin cepat gerakan yang anda lihat menandakan semakin parah tingkat stress anda	</item>
+        <item>Perhatikan gambar! Jika gambar ini terlihat bergerak oleh mata anda, itu tandanya anda sedang stress. Semakin cepat gerakan gambar ini, semakin tinggi tingkat stress anda</item>
+        <item>Jika anda melihat gambar tersebut seperti bergelombang, maka itu menandakan anda mengalami stress, semakin banyak gelombang yang anda lihat, menandakan tingkat stress anda</item>
+        <item>Jika anda melihat gambar tersebut bergerak mendekati objek yang berada di tengah gambar, menandakan bahwa anda sedang stress, semakin sering gambar tersebut bergerak, maka semakin tinggi tingkat stress anda</item>
+        <item>Jika anda melihat gambar kotak-kotak tersebut seakan-akan anda masuk kedalam kotak tersebut, hal tersebut menandakan bahwa anda sedang mengalami stress, tingkat stress dapat diukur dengan semakin cepatnya gambar tersebut bergerak</item>
+        <item>Jika anda merasa gambar tersebut seperti berputar, maka menandakan anda sedang stress, apabila kedua gambar berputar sangat cepat, maka tingkat stress anda tinggi</item>
+        <item>Fokus ke satu titik tanpa melihat titik yang lain, jika anda melihat gambar diluar titik berputar, itu bertanda anda sedang megalami stress, semakin banyak gambar yang berputar, maka menandakan tingkat stress anda</item>
+        <item>Perhatikan kedelapan bentuk tersebut, semakin banyak gambar yang terlihat berputar, maka menunjukkan tingkat stress anda sekalian</item>
+    </string-array>
+
+    <string name="contoh">Duduklah di atas bantal atau di kursi dengan punggung tegak. Postur tubuh yang tegak akan memudahkan Anda berkonsentrasi pada napas setiap kali Anda menarik dan mengembuskan napas secara sadar. Jika Anda duduk di kursi dengan sandaran, jangan bersandar atau membungkuk. Berusahalah duduk tegak sebisa mungkin.</string>
+
+    <string-array name="treats">
+        <item>Duduklah di atas bantal atau di kursi dengan punggung tegak. Postur tubuh yang tegak akan memudahkan Anda berkonsentrasi pada napas setiap kali Anda menarik dan mengembuskan napas secara sadar. Jika Anda duduk di kursi dengan sandaran, jangan bersandar atau membungkuk. Berusahalah duduk tegak sebisa mungkin.\nPilihlah pose kaki yang paling nyaman. Anda bisa meluruskan kedua kaki ke depan atau duduk bersila di lantai, jika menggunakan alas duduk. Apa pun cara duduk yang Anda pilih, postur tubuh Anda harus selalu tegak. </item>
+        <item>Tidak usah bingung dengan pose tangan Anda. Kita sering melihat di media, orang-orang biasanya bermeditasi sambil meletakkan telapak tangan mereka di atas lutut. Jika Anda tidak suka dengan pose ini, tidak apa-apa. Anda boleh meletakkan telapak tangan di paha atau luruskan saja lengan Anda ke bawah. Pilihlah pose yang membuat Anda paling mudah menenangkan pikiran dan berkonsentrasi pada napas.</item>
+        <item>Dekatkan dagu ke dada seperti ingin melihat ke bawah. Anda bisa bermeditasi sambil menutup atau membuka mata, meskipun banyak orang yang merasa lebih mudah bermeditasi dengan mata tertutup. Selain itu, dengan sedikit menunduk, dada Anda akan membusung sehingga lebih mudah bernapas.</item>
+        <item>Pasanglah pewaktu. Setelah Anda menemukan posisi yang nyaman dan siap bermeditasi, pasanglah pewaktu sesuai rentang waktu yang Anda inginkan. Jangan memaksakan diri untuk mencapai tahap meditasi transendental selama satu jam dalam minggu pertama. Mulailah dengan sesi pendek selama 3-5 menit dahulu sampai Anda bisa memperpanjang waktunya sampai satu jam atau lebih, jika Anda mau.</item>
+        <item>Bernapaslah sambil menutup mulut. Anda harus menarik dan membuang napas melalui hidung selama bermeditasi. Tetapi, berusahalah merilekskan rahang meskipun mulut Anda tertutup. Jangan mengencangkan rahang atau merapatkan gigi Anda. Rileks saja.</item>
+        <item>Fokuskan perhatian Anda pada napas. Fokus pada napas adalah hal terpenting dalam meditasi. Alih-alih berusaha untuk tidak berpikir tentang kegiatan sehari-hari yang menimbulkan stres, fokuskan perhatian Anda pada hal yang positif, yaitu napas. Dengan berkonsentrasi penuh pada tarikan dan embusan napas, Anda akan menyadari bahwa semua pikiran tentang kehidupan sehari-hari ternyata bisa hilang dengan sendirinya tanpa harus bersusah payah mengabaikannya.
+\nCobalah berkonsentrasi pada napas dengan cara yang nyaman untuk Anda. Ada yang memilih berfokus pada mengembang dan mengempisnya paru-paru, sedangkan yang lainnya lebih suka memperhatikan aliran udara yang mengalir melalui lubang hidung pada saat mereka bernapas.
+\nAnda boleh memfokuskan perhatian pada suara napas. Berusahalah mengarahkan pikiran sehingga Anda hanya terfokus pada aspek pernapasan
+</item>
+        <item>Amati napas Anda, tetapi jangan menilainya. Anda hanya perlu menyadari setiap tarikan dan embusan napas tanpa harus menilainya. Jangan berusaha mengingat apa yang sedang Anda rasakan atau apa yang harus Anda jelaskan tentang perasaan ini setelah selesai bermeditasi. Pada saat ini, Anda hanya perlu menyadari napas. Setelah satu putaran napas selesai, sadari putaran napas berikutnya. Jangan berusaha mengamati napas dengan berpikir, tetapi sadari napas Anda dengan merasakannya.</item>
+        <item>Arahkan lagi perhatian pada napas, jika pikiran Anda mulai mengembara. Meskipun ada banyak hal yang akan Anda alami selama bermeditasi, pikiran Anda tetap saja bisa melayang ke tempat lain. Mungkin akan muncul pikiran tentang pekerjaan, tagihan, atau antaran yang harus Anda bawa setelah ini. Jangan panik atau berusaha mengabaikan pikiran-pikiran tentang kegiatan sehari-hari yang mulai bermunculan. Alih-alih, kembalikan lagi dengan tenang fokus Anda pada sensasi napas di dalam tubuh dan biarkan pikiran-pikiran yang lain berlalu dengan sendirinya.
+\nMungkin akan lebih mudah jika Anda tetap memfokuskan perhatian pada tarikan dan embusan napas. Ingatlah cara ini, jika memang benar. Berusahalah berkonsentrasi terutama pada sensasi yang Anda rasakan pada saat napas mengalir keluar dari tubuh Anda.
+\nCobalah menghitung napas jika Anda kesulitan memfokuskan perhatian.
+</item>
+        <item>Jangan menyalahkan diri sendiri. Bersiaplah menerima bahwa Anda akan sulit berfokus pada saat baru mulai bermeditasi. Jangan marah pada diri sendiri sebab para pemula biasanya akan mengalami percakapan batin. Ternyata, ada yang mengatakan bahwa proses mengembalikan kesadaran pada momen saat ini secara berulang-ulang adalah "praktik" meditasi yang sesungguhnya. Terlebih lagi, jangan berharap praktik meditasi akan mengubah hidup Anda dalam sekejap. Pengaruh dari ketenangan pikiran akan muncul seiring dengan berjalannya waktu. Lakukan meditasi setiap hari setidaknya selama beberapa menit dan tambahkan lagi waktunya, jika mungkin.
+        \nTIPS
+\nMatikan dahulu nada dering ponsel sebelum Anda mulai bermeditasi.
+\nBermeditasi sebelum tidur akan membantu otak Anda menghentikan proses berpikir dan membuat Anda merasa lebih rileks.
+\nMeditasi bukanlah solusi instan, melainkan sebuah proses yang berkesinambungan. Dengan berlatih setiap hari, Anda akan menyadari bahwa ketenangan dan kedamaian perlahan-lahan tumbuh di dalam diri Anda.
+\nAnda akan merasa lebih rileks jika bermeditasi sambil mendengarkan musik yang lembut.
+\nPada umumnya, meditasi dilakukan sambil memfokuskan perhatian pada napas atau bermantra misalnya dengan mengucapkan "OM". Tetapi, jika Anda lebih suka bermeditasi sambil mendengarkan musik, pilihlah lagu-lagu yang tenang. Ada lagu yang awalnya tenang, tetapi kemudian berubah menjadi lagu rok. Jangan memilih lagu yang seperti ini sebab akan mengganggu proses meditasi.
+\nRasa frustrasi muncul karena rasa memiliki. Hadapilah perasaan tersebut sebab pengalaman ini akan mengajari banyak hal tentang diri Anda setelah menemukan sisi lain dari meditasi yang membuat Anda lebih damai. Bebaskan diri dari keterikatan dan satukan diri Anda dengan alam semesta.
+
+</item>
+
+    </string-array>
+</resources>
